@@ -1,0 +1,61 @@
+Windows:  6.1.7601, SP 1.0, Product Type 1
+Process:  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\debug\QSERP.exe
+Exception Addr:  7518C54F   Module: C:\Windows\syswow64\KERNELBASE.dll
+Exception Code:  E06D7363
+Instruction:  C9 C2 10 00 CC CC CC CC CC 8B FF 55 8B EC 56 8B
+Registers: 
+EAX: 0028C360  EBX: 00000029  ECX: 00000003  EDX: 00000000
+ESI: 726743E4  EDI: 0028C400  ESP: 0028C360  EBP: 0028C3B0
+EIP: 7518C54F  EFlags: 00000216
+Call Stack:
+7518C54F  C:\Windows\syswow64\KERNELBASE.dll
+6A598A19  C:\Windows\system32\MSVCR120.dll
+72672C2E  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\MyReportDll.dll
+726729C4  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\MyReportDll.dll
+726725E3  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\MyReportDll.dll
+72671169  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\MyReportDll.dll
+0060C832  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\debug\QSERP.exe
+006A9291  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\debug\QSERP.exe
+6B946348  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+6B945CEA  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+1190FE37  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+116EBE49  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+116EBDE4  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+116ED0D9  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+1162DF6B  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+116ECF4E  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+11776F20  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+115FDE0F  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+115FBE01  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+6B91B572  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+119414D1  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+115FAAD5  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+11645E61  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+11644F87  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+115FDE0F  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+115FB72B  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+6B91B572  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+0824A321  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Guid.dll
+07FAB96E  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Guid.dll
+07FAB0EA  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Guid.dll
+07FA08A6  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Guid.dll
+6285D78F  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\plugins\platforms\qwindowsd.dll
+6B964AB0  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+76E462FA  C:\Windows\syswow64\USER32.dll
+76E46D3A  C:\Windows\syswow64\USER32.dll
+76E477C4  C:\Windows\syswow64\USER32.dll
+76E4788A  C:\Windows\syswow64\USER32.dll
+6B965DB3  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+6285D6A2  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\plugins\platforms\qwindowsd.dll
+6B919650  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+6B9198EB  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+6B91BBAC  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Cored.dll
+07FAAEF8  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Guid.dll
+115FB0E5  D:\Qt\Qt5.2.0\5.2.0\mingw48_32\bin\Qt5Widgetsd.dll
+004019DF  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\debug\QSERP.exe
+006AF36D  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\debug\QSERP.exe
+006ED36D  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\debug\QSERP.exe
+004013FA  D:\Qt\Qt5.2.0\Tools\QtCreator\bin\sichuanyintai\debug\QSERP.exe
+7524336A  C:\Windows\syswow64\kernel32.dll
+773B9902  C:\Windows\SysWOW64\ntdll.dll
+773B98D5  C:\Windows\SysWOW64\ntdll.dll
